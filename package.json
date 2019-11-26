@@ -22,7 +22,7 @@
     "eslint": "^6.2.2",
     "functional-javascript-workshop": "^1.0.6",
     "htmllint-cli": "github:kevincolten/htmllint-cli",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.0",
     "javascripting": "^2.6.2",
     "jsdom": "^15.1.1",
     "mocha": "^6.2.0",
